@@ -17,7 +17,7 @@ public class PlayerShoot : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Vector3 position = transform.position + Vector3.up * 0.5f + transform.forward * 0.5f;
+            Vector3 position = transform.position + transform.forward ;
             Instantiate(Sphere, position, transform.rotation);
         }
     }
