@@ -17,7 +17,7 @@ public class PlayerShoot : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Vector3 position = transform.position + transform.forward ;
+            Vector3 position = transform.position + transform.forward;
             Instantiate(Sphere, position, transform.rotation);
         }
     }

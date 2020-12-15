@@ -15,7 +15,7 @@ public class Boulasse : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        float speed = 4f;
+        float speed = 12f;
 
         Vector3 currentPosition = transform.position;
 
