@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4000011544677538}
   - component: {fileID: 205000014047985004}
+  - component: {fileID: -3718594115618165436}
   m_Layer: 0
   m_Name: GuitarAcoustic
   m_TagString: Untagged
@@ -56,6 +57,22 @@ LODGroup:
     renderers:
     - renderer: {fileID: 23000010133396570}
   m_Enabled: 1
+--- !u!54 &-3718594115618165436
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010633473096}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1000010726393630
 GameObject:
   m_ObjectHideFlags: 0

@@ -4803,6 +4803,7 @@ GameObject:
   - component: {fileID: 2383494}
   - component: {fileID: 6594476}
   - component: {fileID: 65000012417162566}
+  - component: {fileID: -6450795480911512402}
   m_Layer: 0
   m_Name: Fireplace
   m_TagString: Untagged
@@ -4898,6 +4899,22 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.25427064, y: 0.041058302, z: 1.24}
   m_Center: {x: 0.09827709, y: 1.0565385, z: -0.00000017213198}
+--- !u!54 &-6450795480911512402
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 107598}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &137842
 GameObject:
   m_ObjectHideFlags: 0

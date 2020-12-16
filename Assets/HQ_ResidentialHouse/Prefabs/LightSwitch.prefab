@@ -42,6 +42,7 @@ GameObject:
   - component: {fileID: 11134164}
   - component: {fileID: 6541664}
   - component: {fileID: 11489150}
+  - component: {fileID: -2220056536324563447}
   m_Layer: 0
   m_Name: LightSwitch
   m_TagString: Untagged
@@ -120,6 +121,22 @@ MonoBehaviour:
   AnimName: LightSwitch
   SwitchSound: {fileID: 8300000, guid: 2a91d0613ad93ad4b83df044ce55c3c4, type: 3}
   Volume: 0.6
+--- !u!54 &-2220056536324563447
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115328}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &150928
 GameObject:
   m_ObjectHideFlags: 0

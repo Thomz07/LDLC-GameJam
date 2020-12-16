@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000011103564806}
   - component: {fileID: 65000012025365206}
   - component: {fileID: 65000013650481876}
+  - component: {fileID: -4326565114250730998}
   m_Layer: 0
   m_Name: ShelfA
   m_TagString: Untagged
@@ -107,3 +108,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.02129826, y: 0.29999998, z: 0.19999999}
   m_Center: {x: -0.48935413, y: 0.1500001, z: 0.09999754}
+--- !u!54 &-4326565114250730998
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010594841288}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

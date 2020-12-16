@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6524046}
   - component: {fileID: 6596062}
   - component: {fileID: 6528426}
+  - component: {fileID: 3721450475518767110}
   m_Layer: 0
   m_Name: BathTub_long
   m_TagString: Untagged
@@ -121,3 +122,19 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.0769815, y: 0.6537986, z: 0.06941363}
   m_Center: {x: -0.19765763, y: 0.32687974, z: 0.3343067}
+--- !u!54 &3721450475518767110
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102102}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

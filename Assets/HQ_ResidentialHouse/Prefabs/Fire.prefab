@@ -4770,6 +4770,7 @@ GameObject:
   - component: {fileID: 19896602}
   - component: {fileID: 19951612}
   - component: {fileID: 8227708}
+  - component: {fileID: 223205911370562129}
   m_Layer: 0
   m_Name: Fire
   m_TagString: Untagged
@@ -9523,6 +9524,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+--- !u!54 &223205911370562129
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146350}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &172486
 GameObject:
   m_ObjectHideFlags: 0

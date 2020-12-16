@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3336804}
   - component: {fileID: 2383180}
   - component: {fileID: 6443856}
+  - component: {fileID: 8826182666158444317}
   m_Layer: 0
   m_Name: PoufBig
   m_TagString: Untagged
@@ -94,3 +95,19 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 829fe57c918d7cc49b3b80b2a96743c7, type: 3}
+--- !u!54 &8826182666158444317
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 105034}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
