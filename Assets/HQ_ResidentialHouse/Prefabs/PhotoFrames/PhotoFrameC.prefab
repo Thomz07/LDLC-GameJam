@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000012404008108}
   - component: {fileID: 64000011039262760}
   - component: {fileID: -170269170058012004}
+  - component: {fileID: -2895515889400317421}
   m_Layer: 0
   m_Name: PhotoFrameC
   m_TagString: Untagged
@@ -111,3 +112,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-2895515889400317421
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011676693918}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 2eabd4b8c67c2dc43b5e42a0ad4d841e, type: 3}

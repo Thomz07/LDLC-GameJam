@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000010483361812}
   - component: {fileID: 64000012381938526}
   - component: {fileID: 1996828902770222495}
+  - component: {fileID: -7695725890610949974}
   m_Layer: 0
   m_Name: KidsBoxH
   m_TagString: Untagged
@@ -111,3 +112,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-7695725890610949974
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012930502630}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: cb2cc993207127b4e8c037784469c366, type: 3}

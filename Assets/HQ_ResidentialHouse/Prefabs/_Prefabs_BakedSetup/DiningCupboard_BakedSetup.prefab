@@ -280,6 +280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4000012882290118}
   - component: {fileID: 1132101810758698202}
+  - component: {fileID: -2011466290025971621}
   m_Layer: 0
   m_Name: DiningCupboard_BakedSetup
   m_TagString: Untagged
@@ -324,6 +325,20 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-2011466290025971621
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011233761408}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &1000011930203066
 GameObject:
   m_ObjectHideFlags: 0

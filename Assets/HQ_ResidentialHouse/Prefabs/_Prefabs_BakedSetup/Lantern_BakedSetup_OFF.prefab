@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000011586977692}
   - component: {fileID: 64000010034601888}
   - component: {fileID: 8948425183763578478}
+  - component: {fileID: 8629874000406180562}
   m_Layer: 0
   m_Name: Lantern_BakedSetup_OFF
   m_TagString: Untagged
@@ -113,6 +114,20 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &8629874000406180562
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011524124482}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: e21b26ba26295f14cbb9567a9adeff8f, type: 3}
 --- !u!1 &1000012778295466
 GameObject:
   m_ObjectHideFlags: 0

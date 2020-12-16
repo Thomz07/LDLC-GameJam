@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4000010267774424}
   - component: {fileID: 205000011767651920}
   - component: {fileID: -403316249236037108}
+  - component: {fileID: -1728677471676556499}
   m_Layer: 0
   m_Name: CupA
   m_TagString: Untagged
@@ -73,6 +74,20 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-1728677471676556499
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010022425382}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &1000012175940172
 GameObject:
   m_ObjectHideFlags: 0

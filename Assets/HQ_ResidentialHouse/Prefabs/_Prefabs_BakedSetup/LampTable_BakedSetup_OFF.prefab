@@ -107,6 +107,7 @@ GameObject:
   - component: {fileID: 23000013804074032}
   - component: {fileID: 64000012065823434}
   - component: {fileID: 7165476664152588438}
+  - component: {fileID: -8068112695998997815}
   m_Layer: 0
   m_Name: LampTable_BakedSetup_OFF
   m_TagString: Untagged
@@ -206,3 +207,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-8068112695998997815
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012036250684}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 1f41e304539f8c943a1a027ac16ee9a3, type: 3}

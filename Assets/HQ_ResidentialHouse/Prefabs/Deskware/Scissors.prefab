@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2353724}
   - component: {fileID: 6410526}
   - component: {fileID: 1215705632325631557}
+  - component: {fileID: 8605779717440177977}
   m_Layer: 0
   m_Name: Scissors
   m_TagString: Untagged
@@ -111,3 +112,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &8605779717440177977
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 162468}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 7bfd19bf80e4fec47a63f22835b9b8a2, type: 3}

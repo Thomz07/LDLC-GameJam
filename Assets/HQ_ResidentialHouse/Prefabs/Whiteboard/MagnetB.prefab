@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000011611376222}
   - component: {fileID: 65000012865370214}
   - component: {fileID: 7577837724722242767}
+  - component: {fileID: -2240494325311053197}
   m_Layer: 0
   m_Name: MagnetB
   m_TagString: Untagged
@@ -110,3 +111,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-2240494325311053197
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013371707120}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 411ca9a31179a19488998777648f1533, type: 3}

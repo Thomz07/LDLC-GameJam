@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000010593643480}
   - component: {fileID: 65000010116058140}
   - component: {fileID: -7556331858859510119}
+  - component: {fileID: -745923893895906032}
   m_Layer: 0
   m_Name: DVD_F
   m_TagString: Untagged
@@ -110,3 +111,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-745923893895906032
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012790193584}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: cc045adb7d8f55345a7c9bad353d3141, type: 3}

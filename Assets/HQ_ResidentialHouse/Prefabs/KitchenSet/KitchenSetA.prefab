@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 11115420}
   - component: {fileID: 11466274}
   - component: {fileID: -6616479762264090271}
+  - component: {fileID: -1816712462971102828}
   m_Layer: 0
   m_Name: KitchenSetA
   m_TagString: Untagged
@@ -97,7 +98,7 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 923e47e11ebd00448b8fe98ccc016b71, type: 3}
 --- !u!65 &6598280
@@ -186,6 +187,20 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-1816712462971102828
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 151934}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 923e47e11ebd00448b8fe98ccc016b71, type: 3}
 --- !u!1 &157600
 GameObject:
   m_ObjectHideFlags: 0

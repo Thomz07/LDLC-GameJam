@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2357120}
   - component: {fileID: 6492384}
   - component: {fileID: -4694930489915117638}
+  - component: {fileID: 2722903703132258805}
   m_Layer: 0
   m_Name: NotebookC
   m_TagString: Untagged
@@ -111,3 +112,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &2722903703132258805
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 151780}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: dc563e37b881f9e428c3b8166d4d4e76, type: 3}

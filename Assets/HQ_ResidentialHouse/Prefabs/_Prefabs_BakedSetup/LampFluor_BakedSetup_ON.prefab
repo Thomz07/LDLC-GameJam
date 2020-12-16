@@ -199,6 +199,7 @@ GameObject:
   - component: {fileID: 23000012572285784}
   - component: {fileID: 65000012690180140}
   - component: {fileID: -6302516687218121458}
+  - component: {fileID: -822294273022628722}
   m_Layer: 0
   m_Name: LampFluor_BakedSetup_ON
   m_TagString: Untagged
@@ -298,3 +299,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-822294273022628722
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012678860672}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 2b34b039b420a904ea6413d6bb24dd3f, type: 3}

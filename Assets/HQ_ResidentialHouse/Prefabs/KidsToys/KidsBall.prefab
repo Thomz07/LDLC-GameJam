@@ -170,6 +170,7 @@ GameObject:
   - component: {fileID: 205000013197617496}
   - component: {fileID: 135000011279147942}
   - component: {fileID: 54000010852458782}
+  - component: {fileID: 3858050765267049127}
   m_Layer: 0
   m_Name: KidsBall
   m_TagString: Untagged
@@ -250,6 +251,20 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &3858050765267049127
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012556812024}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 0}
 --- !u!1 &1000012832670190
 GameObject:
   m_ObjectHideFlags: 0

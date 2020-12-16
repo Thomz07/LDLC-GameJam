@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2324916}
   - component: {fileID: 6482234}
   - component: {fileID: 6098809928059341080}
+  - component: {fileID: -1349035222466420609}
   m_Layer: 0
   m_Name: MarkerA
   m_TagString: Untagged
@@ -111,3 +112,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &-1349035222466420609
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 173766}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 238d439ed4f382947b9f39b90f7381e7, type: 3}

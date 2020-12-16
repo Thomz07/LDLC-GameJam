@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000013675486930}
   - component: {fileID: 54000013983217922}
   - component: {fileID: 64000013499150334}
+  - component: {fileID: -2668799751645596073}
   m_Layer: 0
   m_Name: KidsBoxD
   m_TagString: Untagged
@@ -109,5 +110,19 @@ MeshCollider:
   m_Enabled: 1
   serializedVersion: 4
   m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 30f57799b65f58a46bc11041c2e4dd9a, type: 3}
+--- !u!64 &-2668799751645596073
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010760785650}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 30f57799b65f58a46bc11041c2e4dd9a, type: 3}

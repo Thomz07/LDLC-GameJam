@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 23000010762491108}
   - component: {fileID: 64000013963485050}
   - component: {fileID: 7891576797816919545}
+  - component: {fileID: 1838382330577010556}
   m_Layer: 0
   m_Name: GarageBoxSmallEmptyB
   m_TagString: Untagged
@@ -111,3 +112,17 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!64 &1838382330577010556
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011769410280}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: a576a7e27d422bc4786ccc5d718d24c5, type: 3}
