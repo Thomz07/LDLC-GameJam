@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 205000011881943720}
   - component: {fileID: -2154069134625177435}
   - component: {fileID: 3715882486148068255}
+  - component: {fileID: 6700129800571739693}
   m_Layer: 0
   m_Name: VaseA
   m_TagString: Untagged
@@ -93,6 +94,18 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!114 &6700129800571739693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012438546046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1000012498538518
 GameObject:
   m_ObjectHideFlags: 0

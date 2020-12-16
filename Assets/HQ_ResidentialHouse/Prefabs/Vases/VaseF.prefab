@@ -185,6 +185,7 @@ GameObject:
   - component: {fileID: 205000011001216572}
   - component: {fileID: 2605975779165529535}
   - component: {fileID: 435213884186219695}
+  - component: {fileID: -8703574741826913526}
   m_Layer: 0
   m_Name: VaseF
   m_TagString: Untagged
@@ -261,3 +262,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 0}
+--- !u!114 &-8703574741826913526
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013719235438}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

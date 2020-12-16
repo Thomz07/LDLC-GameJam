@@ -111,6 +111,7 @@ GameObject:
   - component: {fileID: 11499848}
   - component: {fileID: 2811662292986646404}
   - component: {fileID: 3221911139419817269}
+  - component: {fileID: 1360591953995280939}
   m_Layer: 0
   m_Name: KitchenSetD
   m_TagString: Untagged
@@ -295,6 +296,18 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 5f9781f8c2be704499148fd22848eaf8, type: 3}
+--- !u!114 &1360591953995280939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 129148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &178172
 GameObject:
   m_ObjectHideFlags: 0

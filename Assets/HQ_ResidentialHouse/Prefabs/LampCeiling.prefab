@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2302306}
   - component: {fileID: 6481422}
   - component: {fileID: -1742039765302499527}
+  - component: {fileID: 346638353762020981}
   m_Layer: 8
   m_Name: LampCeiling
   m_TagString: Untagged
@@ -112,6 +113,18 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &346638353762020981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 123316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &181630
 GameObject:
   m_ObjectHideFlags: 0

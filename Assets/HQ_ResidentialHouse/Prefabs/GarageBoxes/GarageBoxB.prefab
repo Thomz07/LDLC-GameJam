@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 64000012662354192}
   - component: {fileID: 2001749910572401693}
   - component: {fileID: -7067307738078271642}
+  - component: {fileID: 7922554153485734924}
   m_Layer: 0
   m_Name: GarageBoxB
   m_TagString: Untagged
@@ -126,3 +127,15 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: d72a0db92bf9e2543a8df20b7b12665b, type: 3}
+--- !u!114 &7922554153485734924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010251727664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

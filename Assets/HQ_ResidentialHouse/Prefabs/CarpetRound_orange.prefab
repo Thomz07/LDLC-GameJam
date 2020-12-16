@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 3314964}
   - component: {fileID: 2356146}
   - component: {fileID: -4261403077190656785}
+  - component: {fileID: 7516924184090318581}
   m_Layer: 0
   m_Name: CarpetRound_orange
   m_TagString: Untagged
@@ -96,3 +97,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7516924184090318581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 158732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

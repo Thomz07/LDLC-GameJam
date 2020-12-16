@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6482234}
   - component: {fileID: 6098809928059341080}
   - component: {fileID: -1349035222466420609}
+  - component: {fileID: -5258515837123165300}
   m_Layer: 0
   m_Name: MarkerA
   m_TagString: Untagged
@@ -126,3 +127,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 238d439ed4f382947b9f39b90f7381e7, type: 3}
+--- !u!114 &-5258515837123165300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 173766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

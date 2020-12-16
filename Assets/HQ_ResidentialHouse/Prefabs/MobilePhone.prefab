@@ -183,6 +183,7 @@ GameObject:
   - component: {fileID: 4000010913498198}
   - component: {fileID: 205000013128391750}
   - component: {fileID: 8212068096266314559}
+  - component: {fileID: -5531194055734993647}
   m_Layer: 0
   m_Name: MobilePhone
   m_TagString: Untagged
@@ -245,3 +246,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &-5531194055734993647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013126624850}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -183,6 +183,7 @@ GameObject:
   - component: {fileID: 4000012807655084}
   - component: {fileID: 205000012748335166}
   - component: {fileID: -4031280904960864146}
+  - component: {fileID: 2832342405207650908}
   m_Layer: 0
   m_Name: LaptopClosed
   m_TagString: Untagged
@@ -245,3 +246,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &2832342405207650908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000013483936992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

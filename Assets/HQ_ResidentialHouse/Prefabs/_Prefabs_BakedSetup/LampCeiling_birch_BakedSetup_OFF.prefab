@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 65000013169304458}
   - component: {fileID: -7497115206241414687}
   - component: {fileID: 2761387880718793762}
+  - component: {fileID: 5538399885938657168}
   m_Layer: 0
   m_Name: LampCeiling_birch_BakedSetup_OFF
   m_TagString: Untagged
@@ -125,3 +126,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 1d05f4c0452026d468362f936fa1cf63, type: 3}
+--- !u!114 &5538399885938657168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000014095090774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 65000010963481380}
   - component: {fileID: 65000010625490930}
   - component: {fileID: 65000014209928268}
+  - component: {fileID: 6007383654447081040}
   m_Layer: 0
   m_Name: DoorFrameA
   m_TagString: Untagged
@@ -121,3 +122,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.0541418, y: 0.096042156, z: 0.25414214}
   m_Center: {x: -0.00000009354087, y: 2.1399655, z: -7.602685e-15}
+--- !u!114 &6007383654447081040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011899507248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

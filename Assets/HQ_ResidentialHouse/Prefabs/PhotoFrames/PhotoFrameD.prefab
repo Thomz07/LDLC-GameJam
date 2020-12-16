@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 64000010210256390}
   - component: {fileID: 2729119070196299291}
   - component: {fileID: -3346751307137396486}
+  - component: {fileID: -959449213879322691}
   m_Layer: 0
   m_Name: PhotoFrameD
   m_TagString: Untagged
@@ -126,3 +127,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: a73e895609112aa468ef77cc83dd5d31, type: 3}
+--- !u!114 &-959449213879322691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010185903916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

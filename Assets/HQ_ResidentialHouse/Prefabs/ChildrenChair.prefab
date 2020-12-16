@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 2330610}
   - component: {fileID: 6495476}
   - component: {fileID: 6498555526865950550}
+  - component: {fileID: 7519780985458688088}
   m_Layer: 0
   m_Name: ChildrenChair
   m_TagString: Untagged
@@ -111,3 +112,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &7519780985458688088
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 167528}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6410190}
   - component: {fileID: -3098606194507540932}
   - component: {fileID: -4428616251789114063}
+  - component: {fileID: 9156483593380543078}
   m_Layer: 0
   m_Name: NotebookStack_small
   m_TagString: Untagged
@@ -126,3 +127,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 18cd2684f32cea04a93586e59312988f, type: 3}
+--- !u!114 &9156483593380543078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 122808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

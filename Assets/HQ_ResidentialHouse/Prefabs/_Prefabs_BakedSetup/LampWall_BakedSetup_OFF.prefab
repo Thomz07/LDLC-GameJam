@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 64000013958882204}
   - component: {fileID: 6697468839776677511}
   - component: {fileID: -2062454426396779499}
+  - component: {fileID: -374985864911677547}
   m_Layer: 0
   m_Name: LampWall_BakedSetup_OFF
   m_TagString: Untagged
@@ -126,3 +127,15 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 320464c2f5548f94a993efdea376cf74, type: 3}
+--- !u!114 &-374985864911677547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010800927830}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

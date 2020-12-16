@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 65000012025365206}
   - component: {fileID: 65000013650481876}
   - component: {fileID: -4326565114250730998}
+  - component: {fileID: -583801853826325036}
   m_Layer: 0
   m_Name: ShelfA
   m_TagString: Untagged
@@ -124,3 +125,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &-583801853826325036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000010594841288}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

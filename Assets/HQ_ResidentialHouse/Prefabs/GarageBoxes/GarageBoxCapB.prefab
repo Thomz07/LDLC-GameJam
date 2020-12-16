@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 65000012009261144}
   - component: {fileID: 3123597269512721626}
   - component: {fileID: 286571541589123521}
+  - component: {fileID: 6959926791047540191}
   m_Layer: 0
   m_Name: GarageBoxCapB
   m_TagString: Untagged
@@ -125,3 +126,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: eeedb84da2755dc4197d0e3beb47fe00, type: 3}
+--- !u!114 &6959926791047540191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011955244626}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

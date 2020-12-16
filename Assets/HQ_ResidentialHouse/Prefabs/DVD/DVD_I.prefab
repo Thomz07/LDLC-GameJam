@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 65000013333279328}
   - component: {fileID: 4309087459170139050}
   - component: {fileID: 529690731134772167}
+  - component: {fileID: -8083083117121836215}
   m_Layer: 0
   m_Name: DVD_I
   m_TagString: Untagged
@@ -125,3 +126,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 46043bf5aa278d04d888d4c49d4f899f, type: 3}
+--- !u!114 &-8083083117121836215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012593811608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

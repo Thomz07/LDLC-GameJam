@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 65000010192007464}
   - component: {fileID: -2637085724375264176}
   - component: {fileID: -3860353728181398156}
+  - component: {fileID: 4127064489491420831}
   m_Layer: 0
   m_Name: BookH
   m_TagString: Untagged
@@ -125,3 +126,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: a671d05a772dd024bbf8a8e0a72b7140, type: 3}
+--- !u!114 &4127064489491420831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012599544464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

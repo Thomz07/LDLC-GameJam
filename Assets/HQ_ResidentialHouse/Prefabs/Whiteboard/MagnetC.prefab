@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 65000012549153044}
   - component: {fileID: 8550285823339022845}
   - component: {fileID: 5366462570766942590}
+  - component: {fileID: -8212902517282621023}
   m_Layer: 0
   m_Name: MagnetC
   m_TagString: Untagged
@@ -125,3 +126,15 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 4af7e3d6958038244b477b698805d584, type: 3}
+--- !u!114 &-8212902517282621023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000011673788858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
