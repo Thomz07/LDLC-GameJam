@@ -12,13 +12,13 @@ GameObject:
   - component: {fileID: 33000010978512942}
   - component: {fileID: 23000010483361812}
   - component: {fileID: 64000012381938526}
-  - component: {fileID: 54000011500805742}
+  - component: {fileID: 1996828902770222495}
   m_Layer: 0
   m_Name: KidsBoxH
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 4294967295
+  m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!4 &4000010731057500
 Transform:
@@ -95,7 +95,7 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: cb2cc993207127b4e8c037784469c366, type: 3}
---- !u!54 &54000011500805742
+--- !u!54 &1996828902770222495
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
