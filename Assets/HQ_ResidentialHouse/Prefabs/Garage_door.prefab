@@ -253,6 +253,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numberOfCollisions: 0
+  scoreDeTouche: 10
+  scoreDeDestruction: 50
+  nombreDeHp: 5
 --- !u!1 &139232
 GameObject:
   m_ObjectHideFlags: 0

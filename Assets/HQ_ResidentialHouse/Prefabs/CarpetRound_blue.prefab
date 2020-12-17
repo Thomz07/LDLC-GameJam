@@ -123,3 +123,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numberOfCollisions: 0
+  scoreDeTouche: 1
+  scoreDeDestruction: 5
+  nombreDeHp: 3

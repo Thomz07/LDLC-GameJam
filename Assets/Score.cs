@@ -23,6 +23,6 @@ public class Score : MonoBehaviour
     public void changeScore(int modif)
     {
         score = score + modif;
-        leTexte.text = score.ToString();
+        leTexte.text = score.ToString() + " $";
     }
 }
