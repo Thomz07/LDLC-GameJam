@@ -48,6 +48,7 @@ GameObject:
   - component: {fileID: 3958361332370532554}
   - component: {fileID: 9207693496482486925}
   - component: {fileID: 2948270954329751010}
+  - component: {fileID: 3343324436370763365}
   m_Layer: 0
   m_Name: KitchenSetH
   m_TagString: Untagged
@@ -244,6 +245,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &3343324436370763365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 192284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b73cf4b364e0f4397cc08cb04c94f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfCollisions: 0
 --- !u!1 &197396
 GameObject:
   m_ObjectHideFlags: 0

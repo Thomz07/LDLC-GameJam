@@ -29,7 +29,6 @@ public class Disparition : MonoBehaviour
         } 
         else if(collision.gameObject.CompareTag("Sphere") && numberOfCollisions >= 5)
         {
-            //this.transform.localScale = new Vector3(0,0,0);
             Destroy(gameObject);
         }
     }

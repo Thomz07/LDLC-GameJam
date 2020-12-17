@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 65000011935729930}
   - component: {fileID: 3565803820179741141}
   - component: {fileID: -6076983259791427204}
+  - component: {fileID: -3237312342303756087}
   m_Layer: 0
   m_Name: BabyBed
   m_TagString: Untagged
@@ -181,6 +182,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-3237312342303756087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 133416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b73cf4b364e0f4397cc08cb04c94f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfCollisions: 0
 --- !u!1 &160832
 GameObject:
   m_ObjectHideFlags: 0

@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 6528426}
   - component: {fileID: 3721450475518767110}
   - component: {fileID: -6184668508720467876}
+  - component: {fileID: 1947567333654623996}
   m_Layer: 0
   m_Name: BathTub_long
   m_TagString: Untagged
@@ -151,3 +152,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1947567333654623996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 102102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b73cf4b364e0f4397cc08cb04c94f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfCollisions: 0

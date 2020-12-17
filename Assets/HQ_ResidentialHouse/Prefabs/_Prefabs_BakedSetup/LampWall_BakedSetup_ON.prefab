@@ -107,6 +107,7 @@ GameObject:
   - component: {fileID: 6228146934152948071}
   - component: {fileID: 4735150391906750837}
   - component: {fileID: -7710007558563253981}
+  - component: {fileID: 9138879886817762567}
   m_Layer: 0
   m_Name: LampWall_BakedSetup_ON
   m_TagString: Untagged
@@ -232,3 +233,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 869213f863dec4d43b9a4a58b0ae1043, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &9138879886817762567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1000012849841858}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b73cf4b364e0f4397cc08cb04c94f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  numberOfCollisions: 0
