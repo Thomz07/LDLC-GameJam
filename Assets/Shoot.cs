@@ -21,10 +21,8 @@ public class Shoot : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
 
-        Debug.Log("Collision normale");
         if (collision.gameObject.CompareTag("Sphere"))
         {
-            Debug.Log("Collision sphere");
             lobjet.isKinematic = false;
         }
     }
