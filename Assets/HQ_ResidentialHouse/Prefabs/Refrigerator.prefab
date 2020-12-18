@@ -170,8 +170,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   numberOfCollisions: 0
   scoreDeTouche: 5
-  scoreDeDestruction: 10
-  nombreDeHp: 5
+  scoreDeDestruction: 250
+  nombreDeHp: 10
 --- !u!23 &4241213798503154
 MeshRenderer:
   m_ObjectHideFlags: 0
